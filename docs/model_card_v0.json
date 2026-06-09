@@ -1,1 +1,21 @@
-
+{
+  "nombre_proyecto": "TBD — nombre interno de tu proyecto",
+  "modelo_elegido": "TBD — ej: meta-llama/Llama-3.2-3B-Instruct",
+  "version_modelo": "TBD",
+  "autores_modelo": "TBD — ej: Meta AI, 2024",
+  "licencia": "TBD — ej: Llama 3.2 Community License",
+  "fecha_publicacion_modelo": "TBD",
+  "arquitectura": "TBD — ej: Transformer decoder-only",
+  "tipo": "TBD — generativo / analítico / multimodal",
+  "uso_primario": "TBD — para qué tarea de diseño se usa en este proyecto",
+  "usuarios_objetivo": "TBD — quiénes interactuarán con el sistema",
+  "fuera_de_uso": "TBD — para qué NO debe usarse este modelo en este proyecto",
+  "datos_entrenamiento": "TBD — descripción a alto nivel",
+  "idiomas_soportados": "TBD",
+  "metricas_relevantes": "TBD — qué métricas usarás para evaluar si funciona",
+  "limitaciones_conocidas": "TBD — al menos 3 limitaciones del modelo",
+  "sesgos_potenciales": "TBD — al menos 2 sesgos esperados",
+  "consideraciones_eticas": "TBD — si aplica al caso del proyecto",
+  "problema_de_diseno": "TBD — copiar del brief de Paulina",
+  "perfiles_usuario_relevantes": "TBD — copiar dossier humano-IA"
+}
